@@ -88,7 +88,7 @@ nav.sidebar{
     row-gap: 12px;
 }
 
-header{
+header.header{
     grid-column: 4 / 13;
     display: grid;
     row-gap: 20px;
