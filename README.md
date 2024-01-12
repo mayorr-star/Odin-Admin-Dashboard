@@ -19,11 +19,9 @@
 
 ### Links
 
-- Solution URL: [git@github.com:mayorr-star/Odin-Admin-Dashboard.git](https://git@github.com:mayorr-star/Odin-Admin-Dashboard.git.com)
-<!-- - Live Site URL: [https://mayorr-star.github.io/Odin-Admin-Dashboard/](https://https://mayorr-star.github.io/Odin-Admin-Dashboard/.com) -->
+- Solution URL: https://git@github.com:mayorr-star/Odin-Admin-Dashboard.git
+- Live Site URL: https://mayorr-star.github.io/Odin-Admin-Dashboard/
 
-Live Demo:
-https://mayorr-star.github.io/Odin-Admin-Dashboard/
 
 ## My process
 
