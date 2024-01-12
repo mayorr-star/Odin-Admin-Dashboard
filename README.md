@@ -9,19 +9,18 @@
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ### Screenshot
 
-![](./css/Screensht.JPG.jpg)
+![](./css/Screensht.JPG)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [git@github.com:mayorr-star/Odin-Admin-Dashboard.git](https://git@github.com:mayorr-star/Odin-Admin-Dashboard.git.com)
+- Live Site URL: [https://mayorr-star.github.io/Odin-Admin-Dashboard/](https://https://mayorr-star.github.io/Odin-Admin-Dashboard/.com)
 
 ## My process
 
@@ -34,33 +33,28 @@
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+In this project, I used css grid for the positioning of the elements across the page. This has increased my understanding of css grid. I have also learnt how to create  resopnsive layout using css grid. I look forward to learning more and improving my css skills. Below are some snippets:
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.projects_content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.project .action_block{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row: 3;
+    grid-column: 7 / 13;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+There are some css grid properties I'm still not comfortable with(grid-area). I will focus on this area in my next project.
 
 ## Author
 
-- Website - [Immanuel Osei Boateng](https://www.your-site.com)
+- Website - [Immanuel Osei Boateng](https://https://mayorr-star.github.io/Odin-Admin-Dashboard/.com)
 - Twitter - [@His_mayorr](https://www.twitter.com/@His_mayorr)
