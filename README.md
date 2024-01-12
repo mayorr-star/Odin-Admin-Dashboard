@@ -18,7 +18,6 @@
 
 
 ### Links
-- Solution URL: https://git@github.com:mayorr-star/Odin-Admin-Dashboard.git
 - Live Site URL: https://mayorr-star.github.io/Odin-Admin-Dashboard/
 
 
